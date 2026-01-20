@@ -4,7 +4,6 @@
 This project focuses on analyzing employee attrition and key HR metrics using an interactive HR Analytics Dashboard. The dashboard helps HR teams and management understand why employees leave, identify high-risk groups, and make data-driven workforce decisions.
 
 🎯 **Problem Statement**
-Organizations often face challenges in:
 
 * Understanding the root causes of employee attrition
 * Identifying high-attrition departments, roles, and salary groups
