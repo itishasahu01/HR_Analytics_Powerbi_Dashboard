@@ -12,10 +12,10 @@ This project focuses on analyzing employee attrition and key HR metrics using an
 
 🛠 **Tools Used**
 
-* Power Query:  To clean, transform, and prepare raw HR data for analysis.
-* DAX: To calculate key HR metrics such as attrition rate, average age, salary, and tenure.
-* Data Visualization Techniques: Implemented KPI cards, bar charts, donut charts, line charts, and matrix visuals to present insights clearly.
-
+* Power BI: Data Visualization
+* Power Query: Cleaning & Transformation
+* DAX: To calculate Measures , Custom columns , key HR metrics 
+   
 🔍 **Key Insights**
 
 * 26–35 age group shows the highest attrition, indicating mid-career mobility.
