@@ -1,4 +1,4 @@
-# HR_Analytics_Powerbi_Dashboard
+## HR_Analytics_Powerbi_Dashboard
 📌 **Project Overview**
 
 This project focuses on analyzing employee attrition and key HR metrics using an interactive HR Analytics Dashboard. The dashboard helps HR teams and management understand why employees leave, identify high-risk groups, and make data-driven workforce decisions.
